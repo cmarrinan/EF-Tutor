@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "EF-Tutor",
+    "description": "Extensions from RevitAPI + python series by Erik Frits.",
+    "author": "Erik Frits",
+    "author_profile": "https://github.com/cmarrinan",
+    "url": "https://github.com/cmarrinan/EF-Tutor.git",
+    "website": "https://github.com/cmarrinan",
+    "image": "",
+    "dependencies": []
+}
